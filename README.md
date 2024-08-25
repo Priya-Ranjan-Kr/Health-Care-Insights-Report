@@ -114,7 +114,7 @@ The **Health Care Insights Project** is a comprehensive analysis of healthcare d
   - Monitoring these patterns assists in inventory management and identifying over or under-prescription trends.
 
 - **Visualization**:
-  - A heatmap or matrix chart showing the correlation between medications and medical conditions.
+  - A Treemap or matrix chart showing the correlation between medications and medical conditions.
 
 ### Billing Amount vs Target Value
 
